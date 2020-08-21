@@ -1,4 +1,4 @@
-module github.com/ouyangbob/go-timewheel
+module github.com/ouyangbob/gtimewheel
 
 go 1.14
 
